@@ -1,0 +1,11 @@
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\bin\Debug\netcoreapp2.2\StrategyPatternRealLife.deps.json
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\bin\Debug\netcoreapp2.2\StrategyPatternRealLife.runtimeconfig.json
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\bin\Debug\netcoreapp2.2\StrategyPatternRealLife.runtimeconfig.dev.json
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\bin\Debug\netcoreapp2.2\StrategyPatternRealLife.dll
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\bin\Debug\netcoreapp2.2\StrategyPatternRealLife.pdb
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\obj\Debug\netcoreapp2.2\StrategyPatternRealLife.csproj.CoreCompileInputs.cache
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\obj\Debug\netcoreapp2.2\StrategyPatternRealLife.AssemblyInfoInputs.cache
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\obj\Debug\netcoreapp2.2\StrategyPatternRealLife.AssemblyInfo.cs
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\obj\Debug\netcoreapp2.2\StrategyPatternRealLife.dll
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\obj\Debug\netcoreapp2.2\StrategyPatternRealLife.pdb
+C:\workspace\DesignPattern\StrategyPatterRealLife\StrategyPatternRealLife\obj\Debug\netcoreapp2.2\StrategyPatternRealLife.csprojAssemblyReference.cache

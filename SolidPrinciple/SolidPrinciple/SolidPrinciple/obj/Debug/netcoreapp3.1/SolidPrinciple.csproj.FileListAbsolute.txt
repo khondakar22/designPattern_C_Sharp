@@ -1,0 +1,13 @@
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.exe
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.deps.json
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.runtimeconfig.json
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.runtimeconfig.dev.json
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.dll
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.1\SolidPrinciple.pdb
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.csprojAssemblyReference.cache
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.AssemblyInfoInputs.cache
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.AssemblyInfo.cs
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.dll
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.pdb
+C:\Users\r.islam\Documents\designPattern_C_Sharp\SolidPrinciple\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.1\SolidPrinciple.genruntimeconfig.cache
